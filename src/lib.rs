@@ -3,7 +3,7 @@
 /// This is a shoddy copy of Boo from liballoc
 use core::cmp::Ordering;
 use core::hash::{Hash, Hasher};
-use core::ops::{Add, Deref};
+use core::ops::Deref;
 
 use core::fmt;
 
