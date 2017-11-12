@@ -2,5 +2,7 @@
 name = "boo"
 version = "0.1.0"
 authors = ["Lukáš Hozda <luk.hozda@gmail.com>"]
+description = "An isolated, shoddy, no_std copy of Cow pointer from liballoc - credits to rust team"
+license = "Fair"
 
 [dependencies]
